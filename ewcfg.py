@@ -2670,7 +2670,6 @@ poi_list = [
 			"mines2",
 			"cvmines",
 			"cvm",
-			"cratersvillemines",
 			"cratersvillemine",
 			"cratersvillem"
 		],
@@ -2687,7 +2686,6 @@ poi_list = [
 			"mines3",
 			"ttmines",
 			"ttm",
-			"toxingtonmines",
 			"toxingtonmine",
 			"toxingtonm"
 		],
@@ -2702,8 +2700,7 @@ poi_list = [
 		id_poi = poi_id_diner,
 		alias = [
 			"diner",
-			"smokerscough",
-			"smokerscough",
+			"smokercough",
 			"smokers",
 			"cough"
 		],
@@ -2721,7 +2718,6 @@ poi_list = [
 		id_poi = poi_id_seafood,
 		alias = [
 			"seafood",
-			"redmobster",
 			"red",
 			"mobster",
 			"rm"
@@ -2744,8 +2740,7 @@ poi_list = [
 			"jrfarms",
 			"jrfarm",
 			"jrplantation",
-			"jrplant"
-			"juviesrowfarms",
+			"jrplant",
 			"juviesrowfarm",
 			"juviesrowf"
 		],
@@ -2765,7 +2760,6 @@ poi_list = [
 			"ogfarm",
 			"ogplantation",
 			"ogplant",
-			"oozegardensfarms",
 			"oozegardenfarms",
 			"oozegardensfarm",
 			"oozegardenfarm",
@@ -2787,7 +2781,6 @@ poi_list = [
 			"abfarm",
 			"abplantation",
 			"abplant",
-			"arsonbrookfarms",
 			"arsonbrookfarm",
 			"arsonbrookf"
 		],
